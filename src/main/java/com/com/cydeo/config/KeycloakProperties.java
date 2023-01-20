@@ -1,4 +1,4 @@
-package com.cydeo.config;
+package com.com.cydeo.config;
 
 import lombok.Getter;
 import lombok.Setter;

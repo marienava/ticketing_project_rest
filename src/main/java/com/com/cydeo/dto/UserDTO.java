@@ -1,4 +1,4 @@
-package com.cydeo.dto;
+package com.com.cydeo.dto;
 
 import com.cydeo.enums.Gender;
 import com.fasterxml.jackson.annotation.JsonProperty;

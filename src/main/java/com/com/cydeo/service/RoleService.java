@@ -1,4 +1,4 @@
-package com.cydeo.service;
+package com.com.cydeo.service;
 
 import com.cydeo.dto.RoleDTO;
 

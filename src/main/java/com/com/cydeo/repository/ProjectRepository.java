@@ -1,4 +1,4 @@
-package com.cydeo.repository;
+package com.com.cydeo.repository;
 
 import com.cydeo.entity.Project;
 import com.cydeo.entity.User;

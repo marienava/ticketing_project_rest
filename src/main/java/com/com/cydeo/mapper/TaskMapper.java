@@ -1,4 +1,4 @@
-package com.cydeo.mapper;
+package com.com.cydeo.mapper;
 
 import com.cydeo.dto.TaskDTO;
 import com.cydeo.entity.Task;

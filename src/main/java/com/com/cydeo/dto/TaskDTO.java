@@ -1,4 +1,4 @@
-package com.cydeo.dto;
+package com.com.cydeo.dto;
 
 import com.cydeo.enums.Status;
 import lombok.AllArgsConstructor;

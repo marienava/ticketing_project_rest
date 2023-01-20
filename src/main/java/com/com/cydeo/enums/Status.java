@@ -1,4 +1,4 @@
-package com.cydeo.enums;
+package com.com.cydeo.enums;
 
 public enum Status {
 

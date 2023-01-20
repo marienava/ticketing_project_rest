@@ -1,4 +1,4 @@
-package com.cydeo.service.impl;
+package com.com.cydeo.service.impl;
 
 import com.cydeo.config.KeycloakProperties;
 import com.cydeo.dto.UserDTO;

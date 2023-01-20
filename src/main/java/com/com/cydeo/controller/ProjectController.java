@@ -1,4 +1,4 @@
-package com.cydeo.controller;
+package com.com.cydeo.controller;
 
 
 import com.cydeo.dto.ProjectDTO;

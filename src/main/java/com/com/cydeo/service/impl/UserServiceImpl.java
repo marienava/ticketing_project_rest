@@ -1,4 +1,4 @@
-package com.cydeo.service.impl;
+package com.com.cydeo.service.impl;
 
 import com.cydeo.dto.ProjectDTO;
 import com.cydeo.dto.TaskDTO;
